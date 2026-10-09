@@ -1,0 +1,8 @@
+# Reproduction environment for
+# "The Free Inference Dimension Beyond Nested Worlds"
+# Pinned to minor versions known to work; any recent release should be fine.
+numpy>=1.24
+pandas>=2.0
+tqdm>=4.65
+matplotlib>=3.7
+statsmodels>=0.14
